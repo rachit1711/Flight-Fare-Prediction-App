@@ -38,7 +38,7 @@
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#how-to-run">How to Run</a><li>
         <li><a href="#data-visualization">Data Visualization</a><li>
-        <li><a href="predicted-price">Predicted Price</a><li>
+        <li><a href="#predicted-price">Predicted Price</a><li>
         <li><a href="#deployment">Deployment</a></li>
       </ul>
     </li>
