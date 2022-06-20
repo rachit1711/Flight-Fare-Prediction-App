@@ -12,7 +12,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-<a href=""><img src="https://drive.google.com/file/d/1Mg7A9oLnE7U9vHtuwJ4oSWAN5L0gm4sC/view?usp=sharing" alt="Website-Link" /></a>
+![landing page](/static/screen%20.jpg)
 
 <div id="tags" align="center">
 <a href="https://www.linkedin.com/in/rachit-narang-49a4ba193"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
@@ -135,7 +135,7 @@ _The model is deployed in a minimalist website design. It is hosted on Heroku._
   
 4. Finally all files are pushed to the Heroku server.
 
-<a href="https://movie-recommender-sarang.herokuapp.com/">Movie Recommender</a>
+
 
 
 ### Connect With Me
