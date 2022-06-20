@@ -54,7 +54,7 @@
 This is a Flask Based Web Application that takes End User's input like Source City, Destination City, Date of Ariival and Departure, Airline Details and Predicts the Fare The user has to spend to Travel from Source City to Destination City . 
 
 ## Landing Page 
-![landing page](/static/img/screen%20.jpg)
+![landing page](/static/screen%20.jpg)
 
 ## Dataset
 The dataset was taken from [here](https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh). It is also present in this repo (X_train, X_test, y_train, y_test).
@@ -114,11 +114,11 @@ Dependencies that need to be installed
 
 ### Data Visualization 
 Following Visuals from the Graphs and Charts shows the Trends of fluctuating Prices of Flight Fares in accordance with Different parameters.
-![data visualization](/static/img/data1.jpg)
-![data visualization](/static/img/data2.jpg)
+![data visualization](/static/data1.jpg)
+![data visualization](/static/data2.jpg)
 
 ### Predicted Price
-![predicted page](/static/img/predict.jpg)
+![predicted page](/static/predict.jpg)
 
 
 
