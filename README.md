@@ -51,7 +51,7 @@
 
 ## About The Project
 
-This is a Flask Based Web Application that takes End User's input like Source City, Destination City, Date of Ariival and Departure, Airline Details and Predicts the Fare The user has to spend to Travel from Source City to Destination City . 
+This is a Flask Based Web Application that takes End User's input like Source City, Destination City, Date of Arrival and Departure, Airline Details and Predicts the Fare The user has to spend to Travel from Source City to Destination City . 
 
 ## Landing Page 
 ![landing page](/static/screen%20.jpg)
