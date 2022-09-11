@@ -39,7 +39,6 @@
         <li><a href="#how-to-run">How to Run</a><li>
         <li><a href="#data-visualization">Data Visualization</a><li>
         <li><a href="#predicted-price">Predicted Price</a><li>
-        <li><a href="#deployment">Deployment</a></li>
       </ul>
     </li>
   </ol>
@@ -68,7 +67,6 @@ Folowing is the Tech Stack used to Build this Web Application
 
 * Front End - HTML, CSS, JS, BOOTSTRAP 
 * Back End - Flask, Jinja Templating 
-* Deployment - HerokuApp
 * Model Trained with - RandomForestRegressor()
 
 
@@ -133,7 +131,7 @@ _The model is deployed in a minimalist website design. It is hosted on Heroku._
    ```
 3. Command file is made by the name 'Procfile'. This contains the bash commands for the Heroko server.
   
-4. Finally all files are pushed to the Heroku server.
+
 
 
 
