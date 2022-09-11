@@ -70,7 +70,7 @@ Folowing is the Tech Stack used to Build this Web Application
 * Back End - Flask, Jinja Templating 
 * Deployment - HerokuApp
 * Model Trained with - RandomForestRegressor()
-* Hyperparameter Tuning done with - RandomizedSearchCV()
+
 
 
 
