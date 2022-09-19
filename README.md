@@ -120,9 +120,7 @@ Following Visuals from the Graphs and Charts shows the Trends of fluctuating Pri
 
 
 
-### Deployment
 
-_The model is deployed in a minimalist website design. It is hosted on Heroku._
 
 1. The frontend is made by HTML,CSS,JS and Bootstrap.
 2. It can be locally run using the command
