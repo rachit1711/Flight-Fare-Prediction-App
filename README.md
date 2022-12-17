@@ -1,146 +1,22 @@
-# Flight-Fare-Prediction-Web-App
+
+# **Title: Flight Fare Prediction Web Application**
 
 
-<div id="top"></div>
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
-![landing page](/static/screen%20.jpg)
-
-<div id="tags" align="center">
-<a href="https://www.linkedin.com/in/rachit-narang-49a4ba193"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:rachitnarang1711@gmail.com?subject=Hi%20Rachit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-</div>
+## **1. Methodology**
+<img src="https://user-images.githubusercontent.com/7460892/207003643-e03c8964-3f16-4a62-9a2d-b1eec5d8691f.png" width="80%" height="80%">
 
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#landing-page">Landing Page</a><li>
-        <li><a href="#dataset">Data Set</a><li>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#how-to-run">How to Run</a><li>
-        <li><a href="#data-visualization">Data Visualization</a><li>
-        <li><a href="#predicted-price">Predicted Price</a><li>
-      </ul>
-    </li>
-  </ol>
-</details>
+## **2. Description**
+<img src="https://user-images.githubusercontent.com/7460892/207003772-ba2061bc-f8fd-4479-ba42-4712328b7085.png" width="80%" height="80%">
 
 
-
-<!-- ABOUT THE PROJECT -->
-
-## About The Project
-
-This is a Flask Based Web Application that takes End User's input like Source City, Destination City, Date of Arrival and Departure, Airline Details and Predicts the Fare The user has to spend to Travel from Source City to Destination City . 
-
-## Landing Page 
-![landing page](/static/screen%20.jpg)
-
-## Dataset
-The dataset was taken from [here](https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh). It is also present in this repo (X_train, X_test, y_train, y_test).
+## **3. Input / Output**
+<img src="https://user-images.githubusercontent.com/7460892/207004091-8f67548d-50ac-49c3-b7cb-ef8ec18a6491.png" width="40%" height="40%">
 
 
+## **4. Live link**
+Link: www.FacialExpressionRecognition.com
 
 
-### Built With
-
-Folowing is the Tech Stack used to Build this Web Application 
-
-* Front End - HTML, CSS, JS, BOOTSTRAP 
-* Back End - Flask, Jinja Templating 
-* Model Trained with - RandomForestRegressor()
-
-
-
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-Prior Knowledge of python and command line is required.
-
-### Prerequisites
-Dependencies that need to be installed
-* Pandas
-  ```sh
-  pip install pandas
-  ```
-
-* Flask
-  ```sh
-  pip install flask
-  ```
-
-* Requirements
-  ```sh
-  pip install -r requirements.txt
-  ```
-
-* Scikit-learn
-  ```sh
-  pip install scikit-learn
-  ```
-
-
-### How to run
-- Open terminal
-- cd to the directory where this code is present
-- Install requirements
-- Run python app.py
-- Open Browser(Preferably Google Chrome)
-- Go to http://127.0.0.1:5000 (local host) (This link will be shown to you in the terminal)
-
-### Data Visualization 
-Following Visuals from the Graphs and Charts shows the Trends of fluctuating Prices of Flight Fares in accordance with Different parameters.
-![data visualization](/static/data1.jpg)
-![data visualization](/static/data2.jpg)
-
-### Predicted Price
-![predicted page](/static/predict.jpg)
-
-
-
-
-
-1. The frontend is made by HTML,CSS,JS and Bootstrap.
-2. It can be locally run using the command
-   ```sh
-   python app.py
-   ```
-3. Command file is made by the name 'Procfile'. This contains the bash commands for the Heroko server.
-  
-
-
-
-
-
-### Connect With Me
-<div id="tags" align="center">
-<a href="https://www.linkedin.com/in/rachit-narang-49a4ba193"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:rachitnarang1711@gmail.com?subject=Hi%20Rachit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-</div>
-
-
-<p align="center">
-Made with 💖 by Rachit Narang</p>
-
+## **5. Screenshot of the Interface**
+<img src="https://user-images.githubusercontent.com/7460892/207004468-57fc5284-f747-4b93-9bb7-2ff7f1032837.png" width="50%" height="50%">
